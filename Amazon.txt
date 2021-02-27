@@ -1,5 +1,4 @@
 amazon
-1 - Path
 2 - Arts
 3 - Arts//FineArt
 4 - Arts//FineArtEditioned
